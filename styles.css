@@ -1,0 +1,22 @@
+h1 {
+    position: relative;
+    margin-left: 45%;
+}
+
+form {
+    position: relative;
+    margin-left: 35%;
+
+}
+
+#gifSpace {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+p {
+    flex: 1;
+}
+
